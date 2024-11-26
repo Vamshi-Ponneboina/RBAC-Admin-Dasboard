@@ -44,7 +44,7 @@ git clone [https://github.com/Vamshi-Ponneboina/RBAC-Admin-Dasboard.git](https:/
 ### Step 2: Navigate to the Project Directory
 Change into the project directory:
 ```
-cd ReactAdminDashboard
+cd AdminDashboard
 ```
 
 ### Step 3: Install Dependencies
@@ -71,16 +71,16 @@ After setting up the environment variables, you can start the application.
 ### Step 1: Start the Backend Server
 Navigate to the server directory and start the backend server:
 ```
-cd react-admin-backend
+cd backend
 node server.js
 ```
 
 ### Step 2: Start the Frontend
 In a new terminal window, navigate to the client directory and start the React application:
 ```
-cd react-admin
+cd frontend
 npm start
 ```
 
 ### Step 3: Access the Application
-Open your web browser and go to http://localhost:3000 to access the Task Manager application.
+Open your web browser and go to http://localhost:3000 to access the Admin Dashboard application.
